@@ -1,16 +1,22 @@
-### Hi there 👋
+### Oie! Prazer, Maria Luiza 🌱
 
-<!--
-**mluizaguedes/mluizaguedes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Social Section -->
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href= "https://github.com/mluizaguedes/">
+    <img src="https://img.icons8.com/material-outlined/30/689d6a/source-code.png"/>
+  </a>
+  <a href= "https://www.linkedin.com/in/maria-silva-a141b123b/">
+    <img src="https://img.icons8.com/material-outlined/30/689d6a/linkedin.png"/>
+  </a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
+
+##
+<a href="https://github.com/mluizaguedes">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mluizaguedes&theme=vue&show_icons=true" />
+</a>
+
+##
+
+- 🖥 Atualmente estou cursando Análise e Desenvovimento de Sistemas na <a href="http://fatecsjc-prd.azurewebsites.net/"> Fatec.
