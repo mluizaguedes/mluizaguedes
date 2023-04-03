@@ -17,6 +17,3 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mluizaguedes&theme=vue&show_icons=true" />
 </a>
 
-##
-
-- 🖥 Atualmente estou cursando Análise e Desenvovimento de Sistemas na <a href="http://fatecsjc-prd.azurewebsites.net/"> Fatec.
