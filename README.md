@@ -6,7 +6,7 @@
   <a href= "https://github.com/mluizaguedes/">
     <img src="https://img.icons8.com/material-outlined/30/689d6a/source-code.png"/>
   </a>
-  <a href= "https://www.linkedin.com/in/maria-silva-a141b123b/">
+  <a href= "https://www.linkedin.com/in/maria-luiza-a141b123b/">
     <img src="https://img.icons8.com/material-outlined/30/689d6a/linkedin.png"/>
   </a>
 
