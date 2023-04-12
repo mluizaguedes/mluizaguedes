@@ -13,7 +13,7 @@
 </p>
 
 ##
-<a href="https://github.com/mluizaguedes">
+<a href="https://github.com/juliagonzalezmoreira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mluizaguedes&theme=vue&show_icons=true" />
 </a>
 
