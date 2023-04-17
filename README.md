@@ -17,10 +17,10 @@
   </a>
 </p>
 
-<p> 🔎 Estudando sobre HTML, CSS e Python atualmente.</p>
-
+<p> 🔎 Estou aprendendo HTML, CSS e Python. </p>
+          
 ##
-<a href="https://github.com/juliagonzalezmoreira">
+<a href="https://github.com/mluizaguedes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mluizaguedes&theme=vue&show_icons=true" />
 </a>
 
