@@ -9,7 +9,7 @@
   <a href= "https://www.linkedin.com/in/maria-luiza-a141b123b/">
     <img src="https://img.icons8.com/material-outlined/30/689d6a/linkedin.png"/>
   </a>
-   <a href=https://mail.google.com/mail/u/0/#inbox>
+   <a href=mail.mluizaguedessilva@gmail.com>
     <img src="https://img.icons8.com/material-outlined/30/689d6a/mail.png"/>
   </a>
    <a href= "https://www.instagram.com/mluizaguedes._/">
