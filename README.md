@@ -1,10 +1,10 @@
-## 🌼 Oie! Prazer, Maria Luiza
+## Oie! Prazer, Maria Luiza
 
 🎓 Cursando Análise e Desenvolvimento de Sistemas na Fatec de São José dos Campos;
 </br>
 💻 Aprendendo a falar a língua dos computadores - meu novo hobby poliglota;
 </br>
-💙 Música nos fones e chocolate em mãos!
+💗 Música nos fones e chocolate em mãos!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Maria-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
