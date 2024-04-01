@@ -2,13 +2,12 @@
 
 🎓 Cursando Análise e Desenvolvimento de Sistemas na Fatec de São José dos Campos;
 </br>
-💻 Aprendendo a falar a língua dos computadores - meu novo hobby poliglota;
-</br>
-💗 Música nos fones e chocolate em mãos!
+💻 Aprendendo a falar a língua dos computadores.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Maria-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Maria-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Maria-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Maria-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
   <img align="center" alt="Maria-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Maria-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
