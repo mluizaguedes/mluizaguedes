@@ -1,4 +1,4 @@
-## Oie! Prazer, Maria Luiza
+## 🌱 Oie! Prazer, Maria Luiza
 
 🎓 Cursando Análise e Desenvolvimento de Sistemas na [Fatec de São José dos Campos](https://fatecsjc-prd.azurewebsites.net/);
 </br>
@@ -18,5 +18,5 @@
 
 <div align="left">
   <a href="https://github.com/mluizaguedes">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mluizaguedes&layout=compact&langs_count=7&theme=shadow_blue&show_icons=true"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mluizaguedes&layout=compact&langs_count=7&theme=shadow_green&show_icons=true"/>
   <img src="https://storage.googleapis.com/sticker-prod/Mq2Ag8LBK4pIeAZecN4f/6.png" width="20%"/></div>
