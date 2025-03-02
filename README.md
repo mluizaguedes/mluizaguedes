@@ -1,8 +1,9 @@
-## 🌱 Oie! Prazer, Maria Luiza
+## 💌 Hello World! My name is Maria Luiza
 
-🎓 Cursando Análise e Desenvolvimento de Sistemas na [Fatec de São José dos Campos](https://fatecsjc-prd.azurewebsites.net/);
-</br>
-💻 Aprendendo a falar a língua dos computadores!
+🎓 I'm studying IT (Systems Analysis and Development) at [Fatec - São José dos Campos](https://fatecsjc-prd.azurewebsites.net/);
+
+💻 Learning to talk to computers in their own language-coding!
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Maria-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -16,7 +17,13 @@
 </br>
 </br>
 
-<div align="left">
-  <a href="https://github.com/mluizaguedes">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mluizaguedes&layout=compact&langs_count=7&theme=shadow_green&show_icons=true"/>
-  <img src="https://storage.googleapis.com/sticker-prod/Mq2Ag8LBK4pIeAZecN4f/6.png" width="20%"/></div>
+<div>
+    <td>
+      <a href="https://github.com/mluizaguedes">
+        <img loading="lazy" height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mluizaguedes&layout=compact&langs_count=7&theme=holi&show_icons=true"/>
+      </a>
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/4cfbe476-dccb-4c97-a732-ddd3d9d3b0a7" width="370" />
+    </td>
+</div>
