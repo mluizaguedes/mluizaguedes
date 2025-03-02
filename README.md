@@ -4,6 +4,7 @@
 
 💻 Learning to talk to computers in their own language-coding!
 
+🤍 music | coffee | cinema
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Maria-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -20,10 +21,10 @@
 <div>
     <td>
       <a href="https://github.com/mluizaguedes">
-        <img loading="lazy" height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mluizaguedes&layout=compact&langs_count=7&theme=holi&show_icons=true"/>
+        <img loading="lazy" height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mluizaguedes&layout=compact&langs_count=7&theme=github_dark&show_icons=true"/>
       </a>
     </td>
     <td>
-      <img src="https://github.com/user-attachments/assets/4cfbe476-dccb-4c97-a732-ddd3d9d3b0a7" width="370" />
+      <img src="https://github.com/user-attachments/assets/ae830b74-396b-4482-950e-4392b1062913" width="370" />
     </td>
 </div>
