@@ -25,7 +25,7 @@
 ![Jira](https://img.shields.io/badge/jira-d3d3d3.svg?style=for-the-badge&logo=jira&logoColor=black)
 
 </br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mluizaguedes&layout=compact&title_color=000000&text_color=000000&bg_color=default&border_color=d3d3d3" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mluizaguedes&layout=compact&langs_count=9&title_color=000000&text_color=000000&bg_color=default&border_color=d3d3d3" />
 
 ### Onde me encontrar:
 
