@@ -24,6 +24,9 @@
 ![Trello](https://img.shields.io/badge/trello-d3d3d3.svg?style=for-the-badge&logo=trello&logoColor=black)
 ![Jira](https://img.shields.io/badge/jira-d3d3d3.svg?style=for-the-badge&logo=jira&logoColor=black)
 
+</br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mluizaguedes&layout=compact&title_color=000000&text_color=000000&bg_color=default&border_color=d3d3d3" />
+
 ### Onde me encontrar:
 
  <a href="https://www.linkedin.com/in/mluizaguedes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
