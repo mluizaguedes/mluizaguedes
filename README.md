@@ -1,7 +1,7 @@
-# 💌 Oie! Prazer, Maria Luiza
+# Oie! Prazer, Maria Luiza
 
-- Cursando Análise e Desenvolvimento de Sistemas na [Fatec - São José dos Campos](https://fatecsjc-prd.azurewebsites.net/);
-- Aprendendo a falar a língua dos computadores! 👩🏻‍💻
+- Estou cursando Análise e Desenvolvimento de Sistemas na [Fatec - São José dos Campos](https://fatecsjc-prd.azurewebsites.net/);
+- Estou aprendendo a falar a língua dos computadores! 👩🏻‍💻
 
 ### Algumas das tecnologias com as quais já tive contato:
 ![HTML5](https://img.shields.io/badge/html5-d3d3d3.svg?style=for-the-badge&logo=html5&logoColor=black)
@@ -19,7 +19,6 @@
 ![Postman](https://img.shields.io/badge/Postman-d3d3d3.svg?style=for-the-badge&logo=Postman&logoColor=black)
 ![AWS](https://img.shields.io/badge/aws-d3d3d3.svg?style=for-the-badge&logo=aws&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-d3d3d3.svg?style=for-the-badge&logo=bootstrap&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-d3d3d3.svg?style=for-the-badge&logo=tailwind-css&logoColor=black)
 ![Sass](https://img.shields.io/badge/Sass-d3d3d3.svg?style=for-the-badge&logo=sass&logoColor=black)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-d3d3d3.svg?style=for-the-badge&logo=android-studio&logoColor=black)
 ![Expo](https://img.shields.io/badge/expo-d3d3d3?style=for-the-badge&logo=expo&logoColor=black)
@@ -27,7 +26,7 @@
 ![Jira](https://img.shields.io/badge/jira-d3d3d3.svg?style=for-the-badge&logo=jira&logoColor=black)
 
 </br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mluizaguedes&layout=compact&langs_count=9&title_color=000000&text_color=000000&bg_color=default&border_color=d3d3d3" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mluizaguedes&layout=compact&langs_count=6&title_color=000000&text_color=000000&bg_color=default&border_color=d3d3d3" />
 
 ### Onde me encontrar:
 
