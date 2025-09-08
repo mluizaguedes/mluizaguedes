@@ -3,7 +3,7 @@
 - Estou cursando Análise e Desenvolvimento de Sistemas na [Fatec - São José dos Campos](https://fatecsjc-prd.azurewebsites.net/);
 - Falando a língua dos computadores! 👩🏻‍💻
 
-### Algumas das tecnologias com as quais já tive contato:
+### Algumas das tecnologias com as quais tive contato:
 ![HTML5](https://img.shields.io/badge/html5-d3d3d3.svg?style=for-the-badge&logo=html5&logoColor=black)
 ![CSS3](https://img.shields.io/badge/css-d3d3d3.svg?style=for-the-badge&logo=css&logoColor=black)
 ![Python](https://img.shields.io/badge/python-d3d3d3.svg?style=for-the-badge&logo=python&logoColor=black)
