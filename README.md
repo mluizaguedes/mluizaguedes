@@ -3,7 +3,7 @@
 - Estou cursando Análise e Desenvolvimento de Sistemas na [Fatec - São José dos Campos](https://fatecsjc-prd.azurewebsites.net/);
 - Falando a língua dos computadores! 👩🏻‍💻
 
-### Algumas das tecnologias com as quais tive contato:
+### Tecnologias:
 ![HTML5](https://img.shields.io/badge/html5-d3d3d3.svg?style=for-the-badge&logo=html5&logoColor=black)
 ![CSS3](https://img.shields.io/badge/css-d3d3d3.svg?style=for-the-badge&logo=css&logoColor=black)
 ![Python](https://img.shields.io/badge/python-d3d3d3.svg?style=for-the-badge&logo=python&logoColor=black)
@@ -30,8 +30,11 @@
 ![Jira](https://img.shields.io/badge/jira-d3d3d3.svg?style=for-the-badge&logo=jira&logoColor=black)
 
 </br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mluizaguedes&layout=compact&langs_count=6&title_color=000000&text_color=000000&bg_color=default&border_color=d3d3d3" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mluizaguedes&layout=compact&langs_count=6&title_color=000000&text_color=000000&bg_color=default&border_color=d3d3d3&hide_progress=true" />
 
 ### Onde me encontrar:
 
- <a href="https://www.linkedin.com/in/mluizaguedes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a 
+  href="https://www.linkedin.com/in/mluizaguedes" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+ </a> 
