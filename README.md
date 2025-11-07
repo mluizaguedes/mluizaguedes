@@ -3,6 +3,7 @@
 - Estou cursando Análise e Desenvolvimento de Sistemas na [Fatec - São José dos Campos](https://fatecsjc-prd.azurewebsites.net/);
 - Falando a língua dos computadores! 👩🏻‍💻
 - Atualmente, aprofundando estudos em Inteligência Artificial e desenvolvimento de agentes conversacionais 🤖
+- Saiba mais sobre mim e alguns projetos no meu [portfólio](https://github.com/mluizaguedes/portfolio-academico) ✨
 
 ### Tecnologias que tenho tido mais contato:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
