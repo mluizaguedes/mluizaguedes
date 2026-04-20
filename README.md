@@ -20,7 +20,7 @@ Desenvolvedora Full Stack focada em construir produtos web e mobile do front ao 
 ![Google ADK](https://img.shields.io/badge/google_ADK-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 ### Projetos em destaque
-Dá uma olhada nos repositórios pinnados abaixo — ou visite meu portfólio completo pra ver o que venho construindo.
+Dá uma olhada nos repositórios pinnados abaixo — ou visite meu [portfólio](https://github.com/mluizaguedes/portfolio) completo pra ver o que venho construindo.
 
 ### Onde me encontrar:
  <a 
